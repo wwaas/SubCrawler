@@ -1,8 +1,4 @@
-<h4 align="center">访客数 :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/Leon406_Sub/count.svg" alt="Sub :: Visitor's Count" />
- <img width=0 height=0 src="https://profile-counter.glitch.me/Leon406/count.svg" alt="Leon406:: Visitor's Count" />
-</p>
 
 
 #### 原仓库Sub 已确认是github action滥用,被封了,新项目停用自动github action,改为手动随缘更新
